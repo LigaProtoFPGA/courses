@@ -39,19 +39,6 @@ The VHDL description of MIPS_S, the serial multiplier and divider, the testbench
 test program covering every supported instruction are in [`hdl/`](hdl/). The README
 there explains how to run the simulation.
 
-## Suggested study path
-
-1. Read `00` and the two RISC/CISC texts.
-2. Request `01`. Read Section A.1, then the addressing modes, assembler syntax and
-   opcode map in A.10. The remaining pages are a reference to consult, not to read
-   through.
-3. If assembly is new to you, work through `05` and write a few small programs in MARS,
-   keeping to the instruction subset listed in `03`.
-4. Read `02` end to end. This is the contract the hardware has to satisfy.
-5. Work through `03` alongside the sources in `hdl/`, matching each stage in the slides
-   to the code. Run the testbench, then write a program of your own and run that.
-6. Read `04` and try the exercises in `06`.
-
 ## Requirements
 
 - ISE or Vivado — see [`docs/software.md`](https://github.com/LigaProtoFPGA/docs/blob/main/software.md)
