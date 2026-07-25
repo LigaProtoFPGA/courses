@@ -1,0 +1,17 @@
+# Arquivos grandes / temporários
+*.7z
+*.zip
+
+# Artefatos de síntese e simulação
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+.Xil/
+xsim.dir/
+isim/
+work/
+*.prj
+*.bit
+*.jed
