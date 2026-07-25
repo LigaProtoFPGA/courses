@@ -101,7 +101,7 @@ the README there for how to set up and run the simulation in ISE or Vivado.
 ## Requirements
 
 - ISE and/or Vivado — see [`docs/software.md`](https://github.com/LigaProtoFPGA/docs/blob/main/software.md)
-- MARS or SPIM, to assemble the test programs
+- MARS, to assemble the test programs
 - Basic digital logic and VHDL, at the level of the league's introductory course
 
 ## Credits
