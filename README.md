@@ -35,11 +35,3 @@ use. Copyright remains with them.
 Third-party material used in a course — book chapters, lecture slides from other
 institutions, vendor documentation — is not redistributed. Each course README lists
 those items and how participants can obtain them.
-
-## Contributing
-
-- Do not edit an instructor's original material. Report errors through an issue or a
-  pull request that credits the author.
-- Notes, worked exercises and solutions written by members are welcome, in a file
-  clearly separate from the original material.
-- Check copyright before committing anything you did not write.
