@@ -44,8 +44,8 @@ there explains how to run the simulation.
 - ISE or Vivado — see [`docs/software.md`](https://github.com/LigaProtoFPGA/docs/blob/main/software.md)
 - MARS, to assemble test programs. The specification warns that sign extension is
   handled differently by other MIPS simulators, so results may not match.
-- Basic digital logic and VHDL, at the level of the league's introductory course
-
+- Basic digital logic and VHDL
+  
 ## Material available on request
 
 `01_MIPS_AppA-comErrata_V7.pdf` is Appendix A of *Computer Organization and Design* by
