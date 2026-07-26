@@ -41,7 +41,7 @@ there explains how to run the simulation.
 
 ## Requirements
 
-- ISE or Vivado — see [`docs/software.md`](https://github.com/LigaProtoFPGA/docs/blob/main/software.md)
+- ISE or Vivado — see [`docs/setup/software.md`](https://github.com/LigaProtoFPGA/docs/blob/main/setup/software.md)  
 - MARS, to assemble test programs. The specification warns that sign extension is
   handled differently by other MIPS simulators, so results may not match.
 - Basic digital logic and VHDL
