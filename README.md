@@ -24,16 +24,6 @@ material from start to finish at their own pace, using the slides and source cod
 the corresponding folder alongside the videos. Although some courses are taught in 
 Portuguese, it is always possible to generate subtitles in virtually any language.
 
-## Folder layout
-
-```
-<course-name>/
-├── README.md                # what the course covers and how to study it
-├── core_material/           # the course's own slides and reference texts
-├── supplementary_material/  # background reading and exercise sets
-└── hdl/                     # VHDL/Verilog sources, testbenches, test programs
-```
-
 ## Rights
 
 Course material is published here with the permission of its authors, for educational
