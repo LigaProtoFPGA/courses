@@ -2,7 +2,7 @@
 
 **Instructors:** members of ProtoFPGA, UFSC Araranguá  
 **Taught at:** SAEC 2026, October 8, 2026 (one morning, about 4 hours)  
-**Recording:** [YouTube](VIDEO_URL)
+**Recording:** [YouTube](https://youtu.be/ST6p66ktLZ8)
 
 An introductory mini-course for people who have never touched an FPGA. It starts from
 binary numbers and logic gates, goes through the full Vivado flow from VHDL to bitstream,
