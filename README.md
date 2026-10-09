@@ -36,8 +36,6 @@ Portuguese, it is always possible to generate subtitles in virtually any languag
 
 ## Rights
 
-## Rights
-
 Course material is published here with the permission of its authors, for educational
 use. Copyright remains with them.
 
