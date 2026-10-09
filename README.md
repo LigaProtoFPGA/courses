@@ -15,24 +15,15 @@ belong in [`tutorials`](https://github.com/LigaProtoFPGA/tutorials) instead.
 | Course | Instructor | Term | Folder | Recordings |
 | --- | --- | --- | --- | --- |
 | Specification, Design and Simulation of Processors in VHDL: the MIPS_S case study | Prof. Ney Calazans | 2026/2 | [`mips_s_vhdl/`](mips_s_vhdl/) | [YouTube playlist](https://www.youtube.com/playlist?list=PLTsfe7KykBVs) |
+| From Code to Chip: a hands-on introduction to FPGAs (SAEC 2026 mini-course) | ProtoFPGA members | 2026/2 | [`fpga_intro_saec2026/`](fpga_intro_saec2026/) | [YouTube](https://youtu.be/ST6p66ktLZ8) |
 
 ## Recorded lectures
 
-Lectures are recorded and published on YouTube. The course listed above has already
-finished, and its playlist holds the complete set of sessions — anyone can follow the
+Lectures are recorded and published on YouTube. The courses listed above have already
+finished, and their recordings hold the complete set of sessions — anyone can follow the
 material from start to finish at their own pace, using the slides and source code in
 the corresponding folder alongside the videos. Although some courses are taught in 
 Portuguese, it is always possible to generate subtitles in virtually any language.
-
-## Folder layout
-
-```
-<course-name>/
-├── README.md                # what the course covers and how to study it
-├── core_material/           # the course's own slides and reference texts
-├── supplementary_material/  # background reading and exercise sets
-└── hdl/                     # VHDL/Verilog sources, testbenches, test programs
-```
 
 ## Rights
 
