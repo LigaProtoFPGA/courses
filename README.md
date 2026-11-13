@@ -16,6 +16,7 @@ belong in [`tutorials`](https://github.com/LigaProtoFPGA/tutorials) instead.
 | --- | --- | --- | --- | --- |
 | Specification, Design and Simulation of Processors in VHDL: the MIPS_S case study | Prof. Ney Calazans | 2026/2 | [`mips_s_vhdl/`](mips_s_vhdl/) | [YouTube playlist](https://www.youtube.com/playlist?list=PLTsfe7KykBVs) |
 | From Code to Chip: a hands-on introduction to FPGAs (SAEC 2026 mini-course) | ProtoFPGA members | 2026/2 | [`fpga_intro_saec2026/`](fpga_intro_saec2026/) | [YouTube](https://youtu.be/ST6p66ktLZ8) |
+| Introductory Course on Low-Level Programming: MIPS assembly, from C to silicon | ProtoFPGA members | 2026/2 | [`mips_assembly_intro/`](mips_assembly_intro/) | [YouTube playlist](https://www.youtube.com/watch?v=orurjjp3e6g&list=PLGEc7FHy_kM8) |
 
 ## Recorded lectures
 
